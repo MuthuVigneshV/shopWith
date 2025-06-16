@@ -45,6 +45,10 @@ body{
   color: coral;
 }
 
+.navbar-logo:hover{
+  color: #353535;
+}
+
 .search-input-container{
   gap: 1rem;
   padding: 1rem;
